@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliaHassanAkl
+- 👋 Hi, I’m Alia Hassan Akl
 - 👀 I’m interested in web designing and development
 - 🌱 I’m currently learning front-end developing
 - 💞️ I’m looking to collaborate on front-end projects
